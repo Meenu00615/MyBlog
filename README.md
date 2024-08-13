@@ -1,27 +1,54 @@
-# Blog Website - MyBlog
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/blogy)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/blogy?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/blogy?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
 
-A simple blog website built using HTML, CSS. This application allows users to read and write blog posts. 
+  <br />
+  <br />
 
-# Outputs
+  <h2 align="center">Blogy - Blog Website</h2>
 
-![Screenshot 2024-08-14 010806](https://github.com/user-attachments/assets/0936f420-7c74-4fb5-8e9f-fde42be1d0d0)
+  Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-![Screenshot 2024-08-14 010813](https://github.com/user-attachments/assets/373ba518-2fb0-4228-9466-6b30f03bf794)
+  <a href="https://codewithsadee.github.io/blogy/"><strong>➥ Live Demo</strong></a>
 
-![Screenshot 2024-08-14 010819](https://github.com/user-attachments/assets/09fd8c08-f51e-4381-9b44-0d7aef42a804)
+</div>
 
-![Screenshot 2024-08-14 010828](https://github.com/user-attachments/assets/63b87a26-1d92-4657-934e-bcf5f255604c)
+<br />
 
-![Screenshot 2024-08-14 010836](https://github.com/user-attachments/assets/f7db73e1-a776-40ec-907a-c069b999495d)
+### Demo Screeshots
 
-## Contributing
+![Blogy Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
+### Prerequisites
 
-## License
+Before you begin, ensure you have met the following requirements:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Author
+### Run Locally
 
-Meenu Patel
+To run **Blogy** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/blogy.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/blogy.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
